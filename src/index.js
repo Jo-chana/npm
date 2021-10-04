@@ -1,8 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import CustomPackage from './time-picker';
+import Component from './component';
 
 ReactDOM.render(
-  <CustomPackage />,
+  <Component />,
   document.getElementById('root')
 );
